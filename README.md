@@ -1,12 +1,12 @@
-# 📍 Flutter Maps
+# Flutter Maps
 
 Projeto desenvolvido com base no tutorial de Flutter Maps.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 O Flutter Maps é um aplicativo que apresenta um mapa interativo utilizando o OpenStreetMap. Ao clicar em um ponto do mapa, o aplicativo exibe a latitude e a longitude da localização selecionada e adiciona um marcador vermelho no local.
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Flutter
 - Dart
@@ -14,20 +14,20 @@ O Flutter Maps é um aplicativo que apresenta um mapa interativo utilizando o Op
 - latlong2
 - OpenStreetMap
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Visualização de mapa interativo.
 - Seleção de pontos no mapa.
 - Identificação da latitude e longitude.
 - Exibição de marcador no local selecionado.
 
-## 🖼️ Captura de tela
+## Captura de tela
 
 Abaixo está a captura de tela do aplicativo em funcionamento.
 
 ![Flutter Maps funcionando](assets/print-mapa.png)
 
-## ⚙️ Como executar o projeto
+##  Como executar o projeto
 
 Clone este repositório:
 
@@ -55,7 +55,7 @@ flutter run
 
 **Requisito:** ter o Flutter instalado e uma conexão com a internet para carregar o mapa.
 
-## 📱 APK para Android
+## APK para Android
 
 O arquivo APK para instalação em dispositivos Android está disponível na pasta `assets/`.
 
